@@ -1,8 +1,8 @@
 Thông thường 1 buổi phỏng vấn sẽ có 5 phần:
-	1. Hỏi về bản thân
-	2. Hỏi về ngôn ngữ
-	3. Hỏi thuật toán
-	4. Đặt câu hỏi
+1. Hỏi về bản thân
+2. Hỏi về ngôn ngữ
+3. Hỏi thuật toán
+4. Đặt câu hỏi
 Ngoài ra, sẽ có hỏi những câu hỏi về tech, DSA, ... xen kẽ trong lúc phỏng vấn.
 
 1. Hỏi về bản thân:
